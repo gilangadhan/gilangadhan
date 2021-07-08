@@ -11,7 +11,7 @@ I'm a *Code Reviewer* and *Curriculum Developer* for Android since 2018 at [Dico
   <img align="left" src="https://img.shields.io/badge/swift-%23FA7343.svg?logo=swift&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Xcode-007ACC??logo=Xcode&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  <br> <br>
+  <br><br>
 
 ### Github Statistic
 <p align="left">
