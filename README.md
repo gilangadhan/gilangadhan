@@ -20,3 +20,4 @@ I'm a *Code Reviewer* and *Curriculum Developer* for Android since 2018 at [Dico
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+ 
