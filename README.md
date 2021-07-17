@@ -3,6 +3,7 @@
 I'm a *Code Reviewer* and *Curriculum Developer* for Android since 2018 at [Dicoding](https://www.dicoding.com/) after working at the unicorn. Since 2020 he is responsible for the quality of iOS material with a certification from the [University of Toronto]((https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M)) and [LearnQUest as Apple Authorized Global Training Provider](https://www.coursera.org/account/accomplishments/specialization/SRC6PMNEETX2). Earned the [Google Associate Android Developer](https://www.credential.net/h5deoi5h) title since 2019. 
 
 ### Tech Stack
+  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
@@ -10,7 +11,6 @@ I'm a *Code Reviewer* and *Curriculum Developer* for Android since 2018 at [Dico
   <img align="left" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/swift-%23FA7343.svg?logo=swift&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Xcode-007ACC??logo=Xcode&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
   <br><br>
 
 ### Github Statistic
